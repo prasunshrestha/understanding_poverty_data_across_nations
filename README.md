@@ -1,6 +1,6 @@
 # Summary
 
-A panel data analysis the effects of different levels of educational attainment on poverty alleviation aggregating thepoverty rate dataset from the World Bank and Barro-Lee educational attainment data of 108 nations from 1975-2010. The case studies of Nepal and Ethiopia follow to unearth the dimensions of poverty not explained by the econometrics, such as culture.
+A panel data analysis of the effects of different educational attainment levels on poverty alleviation, aggregating the poverty rate dataset from the World Bank and Barro-Lee educational attainment data of 108 nations from 1975-2010. Nepal and Ethiopia's case studies follow to unearth the dimensions of poverty not explained by the econometrics, such as culture.
 
 --
 
